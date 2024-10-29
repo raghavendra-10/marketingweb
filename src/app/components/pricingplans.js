@@ -1,5 +1,5 @@
 import React from 'react';
-import Vector from '../images/vector.png';
+import Vector from '../images/Vector.png';
 import Image from 'next/image';
 
 function PricingPlans() {

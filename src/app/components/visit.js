@@ -1,10 +1,10 @@
 import React from 'react';
 import Image from 'next/image';
 import phoneImage from '../images/phone2.png'; // Replace with your phone image path
-import polygon1 from '../images/polygon1.png';
-import polygon2 from '../images/polygon2.png';
-import polygon3 from '../images/polygon3.png';
-import polygon4 from '../images/polygon4.png';
+import polygon1 from '../images/Polygon1.png';
+import polygon2 from '../images/Polygon2.png';
+import polygon3 from '../images/Polygon3.png';
+import polygon4 from '../images/Polygon4.png';
 import polygon from '../images/polygon.png';
 
 const VisitManagement = () => {
